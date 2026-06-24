@@ -1,0 +1,49 @@
+﻿  blockmem.cpp
+  bspfile.cpp
+  cmdlib.cpp
+  cmdlinecfg.cpp
+  filelib.cpp
+  log.cpp
+  mathlib.cpp
+  messages.cpp
+  scriplib.cpp
+  threads.cpp
+  winding.cpp
+  flow.cpp
+  vis.cpp
+C:\Users\1\Downloads\SDHLT-master\SDHLT-master\src\sdhlt\sdHLVIS\flow.cpp(154,21): warning C4018: >=: несоответствие типов со знаком и без знака
+C:\Users\1\Downloads\SDHLT-master\SDHLT-master\src\sdhlt\sdHLVIS\flow.cpp(249,22): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\1\Downloads\SDHLT-master\SDHLT-master\src\sdhlt\sdHLVIS\flow.cpp(274,27): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\1\Downloads\SDHLT-master\SDHLT-master\src\sdhlt\sdHLVIS\flow.cpp(459,35): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\1\Downloads\SDHLT-master\SDHLT-master\src\sdhlt\sdHLVIS\flow.cpp(469,35): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\1\Downloads\SDHLT-master\SDHLT-master\src\sdhlt\sdHLVIS\flow.cpp(541,27): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\1\Downloads\SDHLT-master\SDHLT-master\src\sdhlt\sdHLVIS\flow.cpp(1032,38): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\1\Downloads\SDHLT-master\SDHLT-master\src\sdhlt\sdHLVIS\flow.cpp(1043,19): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\1\Downloads\SDHLT-master\SDHLT-master\src\sdhlt\sdHLVIS\flow.cpp(1050,19): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\1\Downloads\SDHLT-master\SDHLT-master\src\sdhlt\sdHLVIS\flow.cpp(1076,20): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\1\Downloads\SDHLT-master\SDHLT-master\src\sdhlt\sdHLVIS\flow.cpp(1094,20): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\1\Downloads\SDHLT-master\SDHLT-master\src\sdhlt\sdHLVIS\flow.cpp(1122,19): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\1\Downloads\SDHLT-master\SDHLT-master\src\sdhlt\sdHLVIS\flow.cpp(1124,20): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\1\Downloads\SDHLT-master\SDHLT-master\src\sdhlt\sdHLVIS\flow.cpp(1145,18): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\1\Downloads\SDHLT-master\SDHLT-master\src\sdhlt\sdHLVIS\flow.cpp(1149,18): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\1\Downloads\SDHLT-master\SDHLT-master\src\sdhlt\sdHLVIS\flow.cpp(1016,8): warning C4101: new_dist: неиспользованная локальная переменная
+C:\Users\1\Downloads\SDHLT-master\SDHLT-master\src\sdhlt\sdHLVIS\flow.cpp(1014,9): warning C4101: delta: неиспользованная локальная переменная
+C:\Users\1\Downloads\SDHLT-master\SDHLT-master\src\sdhlt\sdHLVIS\flow.cpp(1010,12): warning C4101: c: неиспользованная локальная переменная
+C:\Users\1\Downloads\SDHLT-master\SDHLT-master\src\sdhlt\sdHLVIS\flow.cpp(1010,15): warning C4101: d: неиспользованная локальная переменная
+C:\Users\1\Downloads\SDHLT-master\SDHLT-master\src\sdhlt\sdHLVIS\vis.cpp(362,33): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\1\Downloads\SDHLT-master\SDHLT-master\src\sdhlt\sdHLVIS\vis.cpp(540,23): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\1\Downloads\SDHLT-master\SDHLT-master\src\sdhlt\sdHLVIS\vis.cpp(648,17): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\1\Downloads\SDHLT-master\SDHLT-master\src\sdhlt\sdHLVIS\vis.cpp(670,16): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\1\Downloads\SDHLT-master\SDHLT-master\src\sdhlt\sdHLVIS\vis.cpp(966,16): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\1\Downloads\SDHLT-master\SDHLT-master\src\sdhlt\sdHLVIS\vis.cpp(983,16): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\1\Downloads\SDHLT-master\SDHLT-master\src\sdhlt\sdHLVIS\vis.cpp(1007,35): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\1\Downloads\SDHLT-master\SDHLT-master\src\sdhlt\sdHLVIS\vis.cpp(1406,27): warning C4018: <: несоответствие типов со знаком и без знака
+  zones.cpp
+C:\Users\1\Downloads\SDHLT-master\SDHLT-master\src\sdhlt\sdHLVIS\zones.cpp(81,16): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\1\Downloads\SDHLT-master\SDHLT-master\src\sdhlt\sdHLVIS\zones.cpp(106,16): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\1\Downloads\SDHLT-master\SDHLT-master\src\sdhlt\sdHLVIS\zones.cpp(133,31): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Microsoft\VC\v170\Microsoft.CppBuild.targets(1402,5): warning MSB8012: TargetPath(C:\Users\1\Downloads\SDHLT-master\SDHLT-master\src\sdhlt\sdHLVIS\Release\sdHLVIS.exe) не соответствует значению свойства выходного файла (C:\Users\1\Downloads\SDHLT-master\SDHLT-master\tools\sdHLVIS.exe) для Linker. Это может привести к неправильной сборке проекта. Чтобы исправить это, убедитесь, что значения свойств $(OutDir), $(TargetName) и $(TargetExt) соответствуют значению, указанному в %(Link.OutputFile).
+  blockmem.obj : найден .netmodule MSIL или модуль, откомпилированный с параметром /GL; перезапускается компоновка с параметром /LTCG; добавьте /LTCG в командную строку компоновки для повышения производительности компоновщика
+  Создание кода
+  Создание кода завершено
+  sdHLVIS.vcxproj -> C:\Users\1\Downloads\SDHLT-master\SDHLT-master\src\sdhlt\sdHLVIS\Release\sdHLVIS.exe

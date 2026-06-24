@@ -1,0 +1,91 @@
+﻿  blockmem.cpp
+  bspfile.cpp
+  cmdlib.cpp
+  cmdlinecfg.cpp
+  filelib.cpp
+  log.cpp
+  mathlib.cpp
+  messages.cpp
+  scriplib.cpp
+  threads.cpp
+  winding.cpp
+  compress.cpp
+  lerp.cpp
+C:\Users\1\Downloads\SDHLT-master\SDHLT-master\src\sdhlt\sdHLRAD\lerp.cpp(1078,16): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\1\Downloads\SDHLT-master\SDHLT-master\src\sdhlt\sdHLRAD\lerp.cpp(1089,16): warning C4018: <: несоответствие типов со знаком и без знака
+  lightmap.cpp
+C:\Users\1\Downloads\SDHLT-master\SDHLT-master\src\sdhlt\sdHLRAD\lightmap.cpp(23,16): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\1\Downloads\SDHLT-master\SDHLT-master\src\sdhlt\sdHLRAD\lightmap.cpp(904,20): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\1\Downloads\SDHLT-master\SDHLT-master\src\sdhlt\sdHLRAD\lightmap.cpp(923,20): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\1\Downloads\SDHLT-master\SDHLT-master\src\sdhlt\sdHLRAD\lightmap.cpp(1128,20): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\1\Downloads\SDHLT-master\SDHLT-master\src\sdhlt\sdHLRAD\lightmap.cpp(1445,22): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\1\Downloads\SDHLT-master\SDHLT-master\src\sdhlt\sdHLRAD\lightmap.cpp(2963,21): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\1\Downloads\SDHLT-master\SDHLT-master\src\sdhlt\sdHLRAD\lightmap.cpp(3331,23): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\1\Downloads\SDHLT-master\SDHLT-master\src\sdhlt\sdHLRAD\lightmap.cpp(3490,11): warning C4101: delta: неиспользованная локальная переменная
+C:\Users\1\Downloads\SDHLT-master\SDHLT-master\src\sdhlt\sdHLRAD\lightmap.cpp(4118,21): warning C4101: i: неиспользованная локальная переменная
+C:\Users\1\Downloads\SDHLT-master\SDHLT-master\src\sdhlt\sdHLRAD\lightmap.cpp(4910,87): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\1\Downloads\SDHLT-master\SDHLT-master\src\sdhlt\sdHLRAD\lightmap.cpp(4851,25): warning C4101: v: неиспользованная локальная переменная
+  loadtextures.cpp
+C:\Users\1\Downloads\SDHLT-master\SDHLT-master\src\sdhlt\sdHLRAD\loadtextures.cpp(176,24): warning C4018: <: несоответствие типов со знаком и без знака
+  mathutil.cpp
+C:\Users\1\Downloads\SDHLT-master\SDHLT-master\src\sdhlt\sdHLRAD\mathutil.cpp(162,16): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\1\Downloads\SDHLT-master\SDHLT-master\src\sdhlt\sdHLRAD\mathutil.cpp(302,20): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\1\Downloads\SDHLT-master\SDHLT-master\src\sdhlt\sdHLRAD\mathutil.cpp(538,23): warning C4018: <: несоответствие типов со знаком и без знака
+  meshdesc.cpp
+C:\Users\1\Downloads\SDHLT-master\SDHLT-master\src\sdhlt\sdHLRAD\meshdesc.cpp(796,23): warning C4018: >=: несоответствие типов со знаком и без знака
+C:\Users\1\Downloads\SDHLT-master\SDHLT-master\src\sdhlt\sdHLRAD\meshdesc.cpp(1011,16): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\1\Downloads\SDHLT-master\SDHLT-master\src\sdhlt\sdHLRAD\meshdesc.cpp(1021,16): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\1\Downloads\SDHLT-master\SDHLT-master\src\sdhlt\sdHLRAD\meshdesc.cpp(1025,16): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\1\Downloads\SDHLT-master\SDHLT-master\src\sdhlt\sdHLRAD\meshdesc.cpp(1047,21): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\1\Downloads\SDHLT-master\SDHLT-master\src\sdhlt\sdHLRAD\meshdesc.cpp(1065,30): warning C4018: <: несоответствие типов со знаком и без знака
+  meshtrace.cpp
+C:\Users\1\Downloads\SDHLT-master\SDHLT-master\src\sdhlt\sdHLRAD\meshtrace.cpp(397,21): warning C4018: <: несоответствие типов со знаком и без знака
+  nomatrix.cpp
+  progmesh.cpp
+  Компиляция...
+  qrad.cpp
+C:\Users\1\Downloads\SDHLT-master\SDHLT-master\src\sdhlt\sdHLRAD\qrad.cpp(636,21): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\1\Downloads\SDHLT-master\SDHLT-master\src\sdhlt\sdHLRAD\qrad.cpp(687,20): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\1\Downloads\SDHLT-master\SDHLT-master\src\sdhlt\sdHLRAD\qrad.cpp(772,21): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\1\Downloads\SDHLT-master\SDHLT-master\src\sdhlt\sdHLRAD\qrad.cpp(1406,19): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\1\Downloads\SDHLT-master\SDHLT-master\src\sdhlt\sdHLRAD\qrad.cpp(1689,32): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\1\Downloads\SDHLT-master\SDHLT-master\src\sdhlt\sdHLRAD\qrad.cpp(2584,37): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\1\Downloads\SDHLT-master\SDHLT-master\src\sdhlt\sdHLRAD\qrad.cpp(2560,21): warning C4101: j: неиспользованная локальная переменная
+C:\Users\1\Downloads\SDHLT-master\SDHLT-master\src\sdhlt\sdHLRAD\qrad.cpp(2559,21): warning C4101: i: неиспользованная локальная переменная
+  qradutil.cpp
+C:\Users\1\Downloads\SDHLT-master\SDHLT-master\src\sdhlt\sdHLRAD\qradutil.cpp(217,21): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\1\Downloads\SDHLT-master\SDHLT-master\src\sdhlt\sdHLRAD\qradutil.cpp(222,13): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\1\Downloads\SDHLT-master\SDHLT-master\src\sdhlt\sdHLRAD\qradutil.cpp(655,16): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\1\Downloads\SDHLT-master\SDHLT-master\src\sdhlt\sdHLRAD\qradutil.cpp(663,16): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\1\Downloads\SDHLT-master\SDHLT-master\src\sdhlt\sdHLRAD\qradutil.cpp(690,16): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\1\Downloads\SDHLT-master\SDHLT-master\src\sdhlt\sdHLRAD\qradutil.cpp(900,16): warning C4018: <: несоответствие типов со знаком и без знака
+  sparse.cpp
+C:\Users\1\Downloads\SDHLT-master\SDHLT-master\src\sdhlt\sdHLRAD\sparse.cpp(44,27): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\1\Downloads\SDHLT-master\SDHLT-master\src\sdhlt\sdHLRAD\sparse.cpp(48,32): warning C4018: >: несоответствие типов со знаком и без знака
+C:\Users\1\Downloads\SDHLT-master\SDHLT-master\src\sdhlt\sdHLRAD\sparse.cpp(77,26): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\1\Downloads\SDHLT-master\SDHLT-master\src\sdhlt\sdHLRAD\sparse.cpp(82,10): warning C4018: >=: несоответствие типов со знаком и без знака
+C:\Users\1\Downloads\SDHLT-master\SDHLT-master\src\sdhlt\sdHLRAD\sparse.cpp(109,26): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\1\Downloads\SDHLT-master\SDHLT-master\src\sdhlt\sdHLRAD\sparse.cpp(114,10): warning C4018: >=: несоответствие типов со знаком и без знака
+C:\Users\1\Downloads\SDHLT-master\SDHLT-master\src\sdhlt\sdHLRAD\sparse.cpp(350,23): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\1\Downloads\SDHLT-master\SDHLT-master\src\sdhlt\sdHLRAD\sparse.cpp(303,21): warning C4101: leaf: неиспользованная локальная переменная
+C:\Users\1\Downloads\SDHLT-master\SDHLT-master\src\sdhlt\sdHLRAD\sparse.cpp(300,21): warning C4101: lface: неиспользованная локальная переменная
+  stringlib.cpp
+  studio.cpp
+  trace.cpp
+C:\Users\1\Downloads\SDHLT-master\SDHLT-master\src\sdhlt\sdHLRAD\trace.cpp(490,16): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\1\Downloads\SDHLT-master\SDHLT-master\src\sdhlt\sdHLRAD\trace.cpp(492,19): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\1\Downloads\SDHLT-master\SDHLT-master\src\sdhlt\sdHLRAD\trace.cpp(631,16): warning C4018: <: несоответствие типов со знаком и без знака
+  transfers.cpp
+  transparency.cpp
+  vismatrix.cpp
+C:\Users\1\Downloads\SDHLT-master\SDHLT-master\src\sdhlt\sdHLRAD\vismatrix.cpp(144,21): warning C4101: leaf: неиспользованная локальная переменная
+C:\Users\1\Downloads\SDHLT-master\SDHLT-master\src\sdhlt\sdHLRAD\vismatrix.cpp(141,21): warning C4101: lface: неиспользованная локальная переменная
+  vismatrixutil.cpp
+C:\Users\1\Downloads\SDHLT-master\SDHLT-master\src\sdhlt\sdHLRAD\vismatrixutil.cpp(39,27): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\1\Downloads\SDHLT-master\SDHLT-master\src\sdhlt\sdHLRAD\vismatrixutil.cpp(185,21): warning C4101: send: неиспользованная локальная переменная
+C:\Users\1\Downloads\SDHLT-master\SDHLT-master\src\sdhlt\sdHLRAD\vismatrixutil.cpp(453,21): warning C4101: send: неиспользованная локальная переменная
+C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Microsoft\VC\v170\Microsoft.CppBuild.targets(1402,5): warning MSB8012: TargetPath(C:\Users\1\Downloads\SDHLT-master\SDHLT-master\src\sdhlt\sdHLRAD\Release\sdHLRAD.exe) не соответствует значению свойства выходного файла (C:\Users\1\Downloads\SDHLT-master\SDHLT-master\tools\sdHLRAD.exe) для Linker. Это может привести к неправильной сборке проекта. Чтобы исправить это, убедитесь, что значения свойств $(OutDir), $(TargetName) и $(TargetExt) соответствуют значению, указанному в %(Link.OutputFile).
+  blockmem.obj : найден .netmodule MSIL или модуль, откомпилированный с параметром /GL; перезапускается компоновка с параметром /LTCG; добавьте /LTCG в командную строку компоновки для повышения производительности компоновщика
+  Создание кода
+  Создание кода завершено
+  sdHLRAD.vcxproj -> C:\Users\1\Downloads\SDHLT-master\SDHLT-master\src\sdhlt\sdHLRAD\Release\sdHLRAD.exe
