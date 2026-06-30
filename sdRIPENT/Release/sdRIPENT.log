@@ -10,8 +10,8 @@
   threads.cpp
   winding.cpp
   ripent.cpp
-C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Microsoft\VC\v170\Microsoft.CppBuild.targets(1402,5): warning MSB8012: TargetPath(C:\Users\1\Downloads\SDHLT-master\SDHLT-master\src\sdhlt\sdRIPENT\Release\sdRIPENT.exe) не соответствует значению свойства выходного файла (C:\Users\1\Downloads\SDHLT-master\SDHLT-master\tools\sdRIPENT.exe) для Linker. Это может привести к неправильной сборке проекта. Чтобы исправить это, убедитесь, что значения свойств $(OutDir), $(TargetName) и $(TargetExt) соответствуют значению, указанному в %(Link.OutputFile).
+C:\Program Files\Microsoft Visual Studio\2022\Community\Msbuild\Microsoft\VC\v170\Microsoft.CppBuild.targets(1402,5): warning MSB8012: TargetPath(C:\projects\SDHLT-burn\sdRIPENT\Release\sdRIPENT.exe) не соответствует значению свойства выходного файла (C:\tools\sdRIPENT.exe) для Linker. Это может привести к неправильной сборке проекта. Чтобы исправить это, убедитесь, что значения свойств $(OutDir), $(TargetName) и $(TargetExt) соответствуют значению, указанному в %(Link.OutputFile).
   blockmem.obj : найден .netmodule MSIL или модуль, откомпилированный с параметром /GL; перезапускается компоновка с параметром /LTCG; добавьте /LTCG в командную строку компоновки для повышения производительности компоновщика
   Создание кода
   Создание кода завершено
-  sdRIPENT.vcxproj -> C:\Users\1\Downloads\SDHLT-master\SDHLT-master\src\sdhlt\sdRIPENT\Release\sdRIPENT.exe
+  sdRIPENT.vcxproj -> C:\projects\SDHLT-burn\sdRIPENT\Release\sdRIPENT.exe

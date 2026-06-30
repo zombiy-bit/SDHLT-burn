@@ -14,19 +14,19 @@
   outside.cpp
   portals.cpp
   qbsp.cpp
-C:\Users\1\Downloads\SDHLT-master\SDHLT-master\src\sdhlt\sdHLBSP\portals.cpp(215,31): warning C4018: <: несоответствие типов со знаком и без знака
-C:\Users\1\Downloads\SDHLT-master\SDHLT-master\src\sdhlt\sdHLBSP\portals.cpp(229,20): warning C4018: <: несоответствие типов со знаком и без знака
+C:\projects\SDHLT-burn\sdHLBSP\portals.cpp(215,31): warning C4018: <: несоответствие типов со знаком и без знака
+C:\projects\SDHLT-burn\sdHLBSP\portals.cpp(229,20): warning C4018: <: несоответствие типов со знаком и без знака
   solidbsp.cpp
-C:\Users\1\Downloads\SDHLT-master\SDHLT-master\src\sdhlt\sdHLBSP\solidbsp.cpp(399,21): warning C4101: j: неиспользованная локальная переменная
-C:\Users\1\Downloads\SDHLT-master\SDHLT-master\src\sdhlt\sdHLBSP\solidbsp.cpp(521,18): warning C4101: p2: неиспользованная локальная переменная
-C:\Users\1\Downloads\SDHLT-master\SDHLT-master\src\sdhlt\sdHLBSP\solidbsp.cpp(1483,23): warning C4018: <: несоответствие типов со знаком и без знака
+C:\projects\SDHLT-burn\sdHLBSP\solidbsp.cpp(399,21): warning C4101: j: неиспользованная локальная переменная
+C:\projects\SDHLT-burn\sdHLBSP\solidbsp.cpp(521,18): warning C4101: p2: неиспользованная локальная переменная
+C:\projects\SDHLT-burn\sdHLBSP\solidbsp.cpp(1483,23): warning C4018: <: несоответствие типов со знаком и без знака
   surfaces.cpp
-C:\Users\1\Downloads\SDHLT-master\SDHLT-master\src\sdhlt\sdHLBSP\surfaces.cpp(162,21): warning C4101: newsize: неиспользованная локальная переменная
+C:\projects\SDHLT-burn\sdHLBSP\surfaces.cpp(162,21): warning C4101: newsize: неиспользованная локальная переменная
   tjunc.cpp
-C:\Users\1\Downloads\SDHLT-master\SDHLT-master\src\sdhlt\sdHLBSP\tjunc.cpp(49,21): warning C4101: newsize: неиспользованная локальная переменная
+C:\projects\SDHLT-burn\sdHLBSP\tjunc.cpp(49,21): warning C4101: newsize: неиспользованная локальная переменная
   writebsp.cpp
-C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Microsoft\VC\v170\Microsoft.CppBuild.targets(1402,5): warning MSB8012: TargetPath(C:\Users\1\Downloads\SDHLT-master\SDHLT-master\src\sdhlt\sdHLBSP\Release\sdHLBSP.exe) не соответствует значению свойства выходного файла (C:\Users\1\Downloads\SDHLT-master\SDHLT-master\tools\sdHLBSP.exe) для Linker. Это может привести к неправильной сборке проекта. Чтобы исправить это, убедитесь, что значения свойств $(OutDir), $(TargetName) и $(TargetExt) соответствуют значению, указанному в %(Link.OutputFile).
+C:\Program Files\Microsoft Visual Studio\2022\Community\Msbuild\Microsoft\VC\v170\Microsoft.CppBuild.targets(1402,5): warning MSB8012: TargetPath(C:\projects\SDHLT-burn\sdHLBSP\Release\sdHLBSP.exe) не соответствует значению свойства выходного файла (C:\tools\sdHLBSP.exe) для Linker. Это может привести к неправильной сборке проекта. Чтобы исправить это, убедитесь, что значения свойств $(OutDir), $(TargetName) и $(TargetExt) соответствуют значению, указанному в %(Link.OutputFile).
   blockmem.obj : найден .netmodule MSIL или модуль, откомпилированный с параметром /GL; перезапускается компоновка с параметром /LTCG; добавьте /LTCG в командную строку компоновки для повышения производительности компоновщика
   Создание кода
   Создание кода завершено
-  sdHLBSP.vcxproj -> C:\Users\1\Downloads\SDHLT-master\SDHLT-master\src\sdhlt\sdHLBSP\Release\sdHLBSP.exe
+  sdHLBSP.vcxproj -> C:\projects\SDHLT-burn\sdHLBSP\Release\sdHLBSP.exe
