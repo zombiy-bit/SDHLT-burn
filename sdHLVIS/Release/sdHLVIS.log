@@ -10,7 +10,6 @@
   threads.cpp
   winding.cpp
   flow.cpp
-  vis.cpp
 C:\projects\SDHLT-burn\sdHLVIS\flow.cpp(154,21): warning C4018: >=: несоответствие типов со знаком и без знака
 C:\projects\SDHLT-burn\sdHLVIS\flow.cpp(249,22): warning C4018: <: несоответствие типов со знаком и без знака
 C:\projects\SDHLT-burn\sdHLVIS\flow.cpp(274,27): warning C4018: <: несоответствие типов со знаком и без знака
@@ -30,6 +29,7 @@ C:\projects\SDHLT-burn\sdHLVIS\flow.cpp(1016,8): warning C4101: new_dist: неи
 C:\projects\SDHLT-burn\sdHLVIS\flow.cpp(1014,9): warning C4101: delta: неиспользованная локальная переменная
 C:\projects\SDHLT-burn\sdHLVIS\flow.cpp(1010,12): warning C4101: c: неиспользованная локальная переменная
 C:\projects\SDHLT-burn\sdHLVIS\flow.cpp(1010,15): warning C4101: d: неиспользованная локальная переменная
+  vis.cpp
 C:\projects\SDHLT-burn\sdHLVIS\vis.cpp(362,33): warning C4018: <: несоответствие типов со знаком и без знака
 C:\projects\SDHLT-burn\sdHLVIS\vis.cpp(540,23): warning C4018: <: несоответствие типов со знаком и без знака
 C:\projects\SDHLT-burn\sdHLVIS\vis.cpp(648,17): warning C4018: <: несоответствие типов со знаком и без знака

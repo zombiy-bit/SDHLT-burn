@@ -13,9 +13,9 @@
   merge.cpp
   outside.cpp
   portals.cpp
-  qbsp.cpp
 C:\projects\SDHLT-burn\sdHLBSP\portals.cpp(215,31): warning C4018: <: несоответствие типов со знаком и без знака
 C:\projects\SDHLT-burn\sdHLBSP\portals.cpp(229,20): warning C4018: <: несоответствие типов со знаком и без знака
+  qbsp.cpp
   solidbsp.cpp
 C:\projects\SDHLT-burn\sdHLBSP\solidbsp.cpp(399,21): warning C4101: j: неиспользованная локальная переменная
 C:\projects\SDHLT-burn\sdHLBSP\solidbsp.cpp(521,18): warning C4101: p2: неиспользованная локальная переменная

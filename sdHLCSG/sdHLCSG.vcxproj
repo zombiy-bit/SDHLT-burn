@@ -15,6 +15,7 @@
     <SccLocalPath />
     <ProjectGuid>{505681C2-3E57-300B-D330-46DD50C147D2}</ProjectGuid>
     <ProjectName>sdHLCSG</ProjectName>
+    <WindowsTargetPlatformVersion>10.0</WindowsTargetPlatformVersion>
   </PropertyGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.Default.props" />
   <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Release|Win32'" Label="Configuration">
@@ -160,7 +161,6 @@
     <ClCompile Include="brushunion.cpp" />
     <ClCompile Include="hullfile.cpp" />
     <ClCompile Include="map.cpp" />
-    <ClCompile Include="modelphysics.cpp" />
     <ClCompile Include="properties.cpp" />
     <ClCompile Include="qcsg.cpp" />
     <ClCompile Include="textures.cpp" />
